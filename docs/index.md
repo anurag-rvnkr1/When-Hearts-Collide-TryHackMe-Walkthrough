@@ -605,9 +605,9 @@ The techniques described should only be used against systems that you own or hav
 
 ## 👨‍💻 Author
 
-### Anurag Ravikumar
+### Anurag Revankar
 
-**Cybersecurity Enthusiast • Web Security • SOC • Blue Team • Cryptography**
+Cybersecurity Enthusiast • Web Security • SOC • Blue Team • Cryptography
 
 ---
 
