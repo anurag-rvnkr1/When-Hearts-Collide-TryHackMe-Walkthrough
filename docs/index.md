@@ -1,9 +1,3 @@
----
-layout: default
-title: Love at First Breach — TryHackMe Walkthrough
-description: Professional documentation of the Love at First Breach TryHackMe web security challenge, demonstrating an MD5 hash collision attack against insecure file matching logic.
----
-
 <div align="center">
 
 # 🐶 Love at First Breach
