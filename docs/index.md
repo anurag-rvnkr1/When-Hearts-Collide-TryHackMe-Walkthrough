@@ -129,13 +129,12 @@ Flag Captured
 - [Tools Used](#tools-used)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Evidence Overview](#evidence-overview)
-- [Lessons Learned](#lessons-learned)
+- [What I Learned](#what-i-learned)
 - [Conclusion](#conclusion)
 - [Full Technical Report](#full-technical-report)
 - [Responsible Use](#responsible-use)
 
 </div>
-
 ---
 
 ## Security Concepts Demonstrated
