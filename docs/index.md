@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Love at First Breach"
+title: "When Hearts Collide"
 description: "A practical TryHackMe web security case study demonstrating how insecure MD5-based file verification can be bypassed using a collision attack."
 ---
 
 <div class="ctf-hero">
 
-  <h1>Love at First Breach</h1>
+  <h1>When Hearts Collide</h1>
 
   <p>
     A practical web security case study demonstrating how insecure MD5-based
@@ -29,7 +29,7 @@ description: "A practical TryHackMe web security case study demonstrating how in
 
 ## Mission
 
-**Love at First Breach** is a TryHackMe web security challenge centered around a dog-matching application named **Matchmaker**.
+**When Hearts Collide** is a TryHackMe web security challenge centered around a dog-matching application named **Matchmaker**.
 
 The application allows users to upload an image and attempts to identify a matching dog by comparing the uploaded file's **MD5 hash** against stored hashes.
 
@@ -68,7 +68,7 @@ Flag Captured
 
   <div class="ctf-card">
     <div class="ctf-card-title">Challenge</div>
-    <div class="ctf-card-value">Love at First Breach</div>
+    <div class="ctf-card-value">When Hearts Collide</div>
   </div>
 
   <div class="ctf-card">
@@ -678,7 +678,7 @@ A verification mechanism should not assume that attacker-controlled data is trus
 
 # Conclusion
 
-**Love at First Breach** is a compact demonstration of how cryptographic weaknesses can directly affect web application security.
+**When Hearts Collide** is a compact demonstration of how cryptographic weaknesses can directly affect web application security.
 
 The documented attack path consisted of:
 
@@ -712,7 +712,7 @@ From a defensive perspective, the appropriate response is to use modern collisio
 
 For the complete detailed documentation, including the full methodology, technical analysis, evidence references, root-cause analysis, and mitigation discussion, see:
 
-**[📄 Love at First Breach — Full Documentation](../Documentation/Love%20at%20First%20Breach_Documentation.md)**
+**[📄 When Hearts Collide — Full Documentation](../Documentation/Love%20at%20First%20Breach_Documentation.md)**
 
 ---
 
