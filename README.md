@@ -328,7 +328,7 @@ The techniques discussed should only be used against systems where explicit auth
 
 ## 👨‍💻 Author
 
-### **Anurag Ravikumar**
+### **Anurag Revankar**
 
 Cybersecurity Enthusiast • Web Security • SOC • Blue Team • TryHackMe Practitioner
 
