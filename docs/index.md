@@ -104,35 +104,36 @@ Flag Captured
 </div>
 
 ---
-
 ## Navigation
 
 <div class="ctf-toc">
 
-<div class="ctf-toc-title">Documentation Map</div>
+  <div class="ctf-toc-title">Documentation Map</div>
 
-- [Mission](#mission)
-- [Challenge Profile](#challenge-profile)
-- [Security Concepts Demonstrated](#security-concepts-demonstrated)
-- [Attack Chain](#attack-chain)
-- [Reconnaissance](#reconnaissance)
-- [Static Resource Discovery](#static-resource-discovery)
-- [Reference Image Acquisition](#reference-image-acquisition)
-- [MD5 Hash Analysis](#md5-hash-analysis)
-- [MD5 Collision Generation](#md5-collision-generation)
-- [Collision Upload](#collision-upload)
-- [Successful Match](#successful-match)
-- [Technical Root Cause](#technical-root-cause)
-- [Security Impact](#security-impact)
-- [Remediation](#remediation)
-- [Attack Summary](#attack-summary)
-- [Tools Used](#tools-used)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Evidence Overview](#evidence-overview)
-- [What I Learned](#what-i-learned)
-- [Conclusion](#conclusion)
-- [Full Technical Report](#full-technical-report)
-- [Responsible Use](#responsible-use)
+  <ul>
+    <li><a href="#mission">Mission</a></li>
+    <li><a href="#challenge-profile">Challenge Profile</a></li>
+    <li><a href="#security-concepts-demonstrated">Security Concepts Demonstrated</a></li>
+    <li><a href="#attack-chain">Attack Chain</a></li>
+    <li><a href="#reconnaissance">Reconnaissance</a></li>
+    <li><a href="#static-resource-discovery">Static Resource Discovery</a></li>
+    <li><a href="#reference-image-acquisition">Reference Image Acquisition</a></li>
+    <li><a href="#md5-hash-analysis">MD5 Hash Analysis</a></li>
+    <li><a href="#md5-collision-generation">MD5 Collision Generation</a></li>
+    <li><a href="#collision-upload">Collision Upload</a></li>
+    <li><a href="#successful-match">Successful Match</a></li>
+    <li><a href="#technical-root-cause">Technical Root Cause</a></li>
+    <li><a href="#security-impact">Security Impact</a></li>
+    <li><a href="#remediation">Remediation</a></li>
+    <li><a href="#attack-summary">Attack Summary</a></li>
+    <li><a href="#tools-used">Tools Used</a></li>
+    <li><a href="#skills-demonstrated">Skills Demonstrated</a></li>
+    <li><a href="#evidence-overview">Evidence Overview</a></li>
+    <li><a href="#what-i-learned">What I Learned</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+    <li><a href="#full-technical-report">Full Technical Report</a></li>
+    <li><a href="#responsible-use">Responsible Use</a></li>
+  </ul>
 
 </div>
 ---
