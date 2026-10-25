@@ -1,9 +1,3 @@
----
-layout: default
-title: "When Hearts Collide"
-description: "A practical TryHackMe web security case study demonstrating how insecure MD5-based file verification can be bypassed using a collision attack."
----
-
 <div class="ctf-hero">
 
   <h1>When Hearts Collide</h1>
@@ -712,7 +706,7 @@ From a defensive perspective, the appropriate response is to use modern collisio
 
 For the complete detailed documentation, including the full methodology, technical analysis, evidence references, root-cause analysis, and mitigation discussion, see:
 
-**[📄 When Hearts Collide — Full Documentation](../Documentation/Love%20at%20First%20Breach_Documentation.md)**
+**[📄 When Hearts Collide — Full Documentation](https://github.com/anurag-rvnkr1/When-Hearts-Collide-TryHackMe-Walkthrough/blob/main/Documentation/Love%20at%20First%20Breach_Documentation.md)**
 
 ---
 
